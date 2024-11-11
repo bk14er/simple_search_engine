@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: createPair
+  - text: pairOf
+  - text: to
+  - text: of
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12662#comment
+status: Solved
+record: -1
+custom_name: Comprehension
+local_check: false

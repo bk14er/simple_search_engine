@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: src/search/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/SearchEngineTests.java
+    visible: false
+    learner_created: false
+  - name: test/SimpleSearchEngineTest.java
+    visible: false
+    learner_created: false
+  - name: src/search/file.txt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/7821#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 10 Nov 2024 17:43:16 UTC"
+record: 5

@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "{Robert=1500}"
+  - text: Empty map
+  - text: "{Rob=1, Robert=1500}"
+  - text: Compile-time error
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15880#comment
+status: Solved
+record: -1
+custom_name: The output is..
+local_check: false
